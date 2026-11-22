@@ -1,0 +1,11 @@
+- Upstream API
+- Core Tech Stack & Libraries
+  - Java 25
+  - Spring Boot 4
+  - Resillience: resillience4j -> Circuit Breaker & Rate Limiter
+  - Caching: spring-boot-starter-cache + Caffeine -> 24 hour TTL
+  - Validation & Error Contract: spring-boot-starter-validation
+  - Observability: spring-boot-starter-actuator + Micrometer
+  - Testing: JUnit5
+  - REST Client: spring-boot-starter-restclient
+  - asdfjal
